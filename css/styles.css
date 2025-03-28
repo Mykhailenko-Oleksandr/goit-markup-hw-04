@@ -195,7 +195,8 @@ button {
 }
 
 .header-navigation-link:hover,
-.header-navigation-link:focus .header-address-link:hover,
+.header-navigation-link:focus,
+.header-address-link:hover,
 .header-address-link:focus {
   color: #404bbf;
 }
